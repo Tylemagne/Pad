@@ -1,5 +1,6 @@
 Goals for Pad
 ======
+* Secure - No accounts. No bullshit. Just open to a clean slate and let people create a new Pad. If they want to cloudify their files, they can easily stick the folder in their own Dropbox, Drive, or network disk.
 * Interlinkable - A core feature will be the ability to create and make clickable Wiki-like links to any number of pages within a single Pad.
 * Customizable - Night and day mode. Resizable. Fullscreen mode to accommodate any usage scenario.
 * Simple - Accomplishing something should take as few keystrokes and clicks as possible. No more than 2 non-standard hotkeys should need to be memorized.
