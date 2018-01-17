@@ -7,3 +7,18 @@ Goals
 * Readable - Notebooks must be stored simply, using a single folder wherein all text documents and media are contained. Doing so will mean that transportation and distribution will be incredibly easy. Switching between notebooks for Deskpad will be as easy as selecting a different folder (the user will just need to click in a single menu).
 * Functional - Formatting, notebook switching, embedding, and editing must be easy to do and fully-featured.
 * Collaborative - Pad needs to watch for directory changes commited by Dropbox, network users, or Google Drive and offer the chance to click "synchronize".
+
+Mockups
+======
+<p align="center" style="padding: none; margin:none;">
+    <img src="https://i.imgur.com/jI0bwOT.png" width="100%">
+</p>
+<p align="center" style="padding: none; margin:none;">
+    <img src="https://i.imgur.com/16M2MNE.png" width="100%">
+</p>
+<p align="center" style="padding: none; margin:none;">
+    <img src="https://i.imgur.com/Cancfqj.png" width="100%">
+</p>
+<p align="center" style="padding: none; margin:none;">
+    <img src="https://i.imgur.com/6GbFrQd.png" width="100%">
+</p>
