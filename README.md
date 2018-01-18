@@ -24,3 +24,16 @@ Mockups
 <p align="center" style="padding: none; margin:none;">
     <img src="https://i.imgur.com/6GbFrQd.png" width="100%">
 </p>
+
+
+Data Structure
+======
+- ~documents/Pad/
+-- /padname/
+--- padname.json
+--- 1.md
+--- 2.md
+--- 3.md {...}
+
+
+
