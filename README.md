@@ -40,5 +40,11 @@ Data Structure
 
 ... 3.md {...}
 
+... image.png
+
+... another.png
+
+... example3.jpg
+
 
 
