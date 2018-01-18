@@ -28,17 +28,17 @@ Mockups
 
 Data Structure
 ======
-- ~documents/Pad/
+. ~documents/Pad/
 
--- /padname/
+.. /padname/
 
---- padname.json
+... padname.json
 
---- 1.md
+... 1.md
 
---- 2.md
+... 2.md
 
---- 3.md {...}
+... 3.md {...}
 
 
 
