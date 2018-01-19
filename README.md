@@ -24,6 +24,12 @@ Mockups
 <p align="center" style="padding: none; margin:none;">
     <img src="https://i.imgur.com/6GbFrQd.png" width="100%">
 </p>
+<p align="center" style="padding: none; margin:none;">
+    <img src="https://i.imgur.com/7T4SflE.png" width="100%">
+</p>
+<p align="center" style="padding: none; margin:none;">
+    <img src="https://i.imgur.com/lycUUl4.png" width="100%">
+</p>
 
 
 Data Structure
