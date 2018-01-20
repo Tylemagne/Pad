@@ -9,6 +9,7 @@ Goals for Pad
 * Readable - Notebooks must be stored simply, using a single folder wherein all text documents and media are contained. Doing so will mean that transportation and distribution will be incredibly easy. Switching between notebooks in Pad will be as easy as selecting a different folder (the user will just need to click in a single menu).
 * Functional - Formatting, notebook switching, embedding, and editing must be easy to do and fully-featured.
 * Collaborative - Pad needs to watch for directory changes commited by Dropbox, network users, or Google Drive and offer the chance to click "synchronize".
+* Possibly [MIT License](https://opensource.org/licenses/mit-license.php)
 
 Mockups
 ======
